@@ -18,9 +18,5 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Simons36&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Simons36&theme=nord&count_private=true&hide=Jupyter%20Notebook)
-
 [website]: https://simaosilva.com
 [cv]: https://cv.simaosilva.com
