@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Simão Silva!
 
-- 🌐 Visit my [website and portfolio][website]
+- 🌐 Visit my [website][website]
 - 📜 Check out my [CV][cv]
 - 🎓 Studying Computer Science (LEIC) at Instituto Superior Técnico
 
